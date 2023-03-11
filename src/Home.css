@@ -1,0 +1,15 @@
+form{
+ display: flex;
+ flex-direction: column;
+ width: 60%;
+ height:70%;
+ background-color: aquamarine;
+
+}
+input{
+    margin-top: 2.5rem;
+    margin-left: 2rem ;
+    margin-right: 2rem;
+    padding: 2rem;
+
+}

@@ -1,0 +1,22 @@
+ul{
+    
+    height: 80%;
+    width: 80%;
+    margin:5rem ;
+
+
+}
+li{
+    background-color: cornflowerblue;
+    display: flex;
+    margin-top:3rem;
+    flex-direction: row;
+    padding:1.5rem;
+
+}
+li div{
+    margin:4px;
+}
+li:hover{
+    transform: scale(105%);
+}
